@@ -1,0 +1,76 @@
+{
+  "dogs": [
+    {
+      "img": "https://images.dog.ceo/breeds/basenji/n02110806_4395.jpg",
+      "id": 1,
+      "present": false,
+      "name": "Ludde",
+      "nick": "@Ludde",
+      "age": "7",
+      "bio": "Gillar att chilla med min ägare på soffan",
+      "friends": [
+        "@Bozz",
+        "@Ghost",
+        "@Lin",
+        "@Stoner"
+      ]
+    },
+    {
+      "img": "https://images.dog.ceo/breeds/terrier-border/n02093754_909.jpg",
+      "id": 2,
+      "present": false,
+      "name": "Bosse",
+      "nick": "@Bozz",
+      "age": "20",
+      "bio": "Vinner varje dragkamp!",
+      "friends": [
+        "@Ludde",
+        "@Bozz",
+        "@Lin"
+      ]
+    },
+    {
+      "img": "https://images.dog.ceo/breeds/mastiff-english/3.jpg",
+      "id": 3,
+      "present": false,
+      "name": "Buster",
+      "nick": "@Ghost",
+      "age": "10",
+      "bio": "Snabbast i stan!",
+      "friends": [
+        "@Ludde",
+        "@Bozz",
+        "@Lin"
+      ]
+    },
+    {
+      "img": "https://images.dog.ceo/breeds/labradoodle/Cali.jpg",
+      "id": 4,
+      "present": false,
+      "name": "Linnéa",
+      "nick": "@Lin",
+      "age": "3",
+      "bio": "Hoppar gärna på studsmattor!",
+      "friends": [
+        "@Stoner",
+        "@Ludde",
+        "@Bozz",
+        "@Ghost"
+      ]
+    },
+    {
+      "img": "https://images.dog.ceo/breeds/keeshond/n02112350_8734.jpg",
+      "id": 5,
+      "present": false,
+      "name": "Sten",
+      "nick": "@Stoner",
+      "age": "16",
+      "bio": "Don't mess with me yo!",
+      "friends": [
+        "@Ghost",
+        "@Bozz",
+        "@Ludde"
+      ]
+    }
+  ]
+}
